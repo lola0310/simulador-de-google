@@ -7,6 +7,7 @@ const voiceSearchModalOpen = ()=>{
 	voiceSearch.style.animation = "aparecer 0.5s forwards";
 	voiceRecognition();
 }
+fehdqhdiohqwidhwipoqw
 
 
 const voiceSearchModalClose = () =>{
@@ -15,6 +16,7 @@ const voiceSearchModalClose = () =>{
 	    voiceSearch.style.display = "none";
 	},250)
 }
+dgquwdihwqidhiohqwdoi
 
 const voiceRecognition = () =>{
 	if (microAceptado == false) {
@@ -34,6 +36,7 @@ const voiceRecognition = () =>{
     window.open("https://google.com/search?q="+voiceText);
     },1800)
 }
+hdihqwihdiwqjdiojwqp
     recognition.start();
 }
 
